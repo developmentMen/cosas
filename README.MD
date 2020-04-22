@@ -1,2 +1,0 @@
-Agregado desde term
-
