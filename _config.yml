@@ -22,13 +22,13 @@ title: primer blog
 email: developmentmen97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   este es mi sitio web donde pongo un monton de cosas.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "primeraWeb" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: developmentMen
 github_username:  developmentMen
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
