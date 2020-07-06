@@ -1,0 +1,4 @@
+---
+layout: post
+---
+hola mundo
