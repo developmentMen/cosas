@@ -10,7 +10,7 @@ url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for you
 encoding: utf-8
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed 
   - jekyll-sitemap 
