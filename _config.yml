@@ -28,7 +28,7 @@ twitter_username: developmentMen
 github_username:  developmentMen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
