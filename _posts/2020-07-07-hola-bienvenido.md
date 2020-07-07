@@ -4,7 +4,8 @@ title:  "Hola Bienvenido!"
 date:   2020-07-07 14:00
 permalink: /hola/
 ---
-hola bienvenido al blog
+<h1 style="text-align: justify;">hola bienvenido al blog</h1>
 
-[mi repositorio de git hub]
-[mi-repositorio-de-git-hub]: https://github.com/developmentMen/
+checkea mi repositorio de [git hub][git-hub]
+
+[git-hub]: https://github.com/developmentMen/
