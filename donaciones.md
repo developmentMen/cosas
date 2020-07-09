@@ -3,4 +3,5 @@ layout: page
 title: Donaciones
 permalink: /dons/
 ---
-aca van las donaciones
+<h1>aca van las donaciones</h1>
+{{page.title}}
