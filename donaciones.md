@@ -4,7 +4,7 @@ title: Donaciones
 permalink: /dons/
 ---
 <div>
-	<h1>
+	<h1 style="text-align: center;">
 		Paypal
 	</h1>
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
