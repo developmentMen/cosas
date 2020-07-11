@@ -4,7 +4,9 @@ title: Donaciones
 permalink: /dons/
 ---
 <div>
-	<script src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"data-preference-id="66085586-05a6a0c2-7cb7-480c-8005-a05485b912ba"></script>
+	<script src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"data-preference-id="66085586-05a6a0c2-7cb7-480c-8005-a05485b912ba">
+		marcadolibre
+	</script>
 </div>
 
 <div>
