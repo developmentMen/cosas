@@ -3,9 +3,9 @@ layout: page
 title: Donaciones
 permalink: /dons/
 ---
-<div>
-	<h1 style="text-align: center;">
-		Paypal
+<div style="text-align: center;">
+	<h1>
+		<strong>Paypal</strong>
 	</h1>
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick" />
