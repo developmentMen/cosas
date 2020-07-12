@@ -27,7 +27,7 @@ probado en ubuntu/linux
 
 <h2 style="text-decoration: underline;">Paso 1</h2>
 copiamos y pegamos el comando:
-<h3 style="text-align: center;">
+<h3 style="text-align: center; color: darkred;">
 	sudo fuser -vki nombre/del/proceso
 </h3>
 fuser es una sencilla pero poderosa utilidad de línea de comandos que
@@ -39,14 +39,14 @@ corresponde a -kill
 
 <h2 style="text-decoration: underline;">Paso 2</h2>
 copiamos y pegamos el comando:
-<h3 style="text-align: center;">
+<h3 style="text-align: center; color: darkred;">
 	sudo rm -f nombre/del/proceso
 </h3>
 rm elimina archivos y con -f le decimos que elimine sin dar vueltas ni mas
 
 <h2 style="text-decoration: underline;">Paso 3</h2>
 copiamos y pegamos el comando:
-<h3 style="text-align: center;">
+<h3 style="text-align: center; color: darkred;">
 	sudo dpkg --configure -a
 </h3>
 El programa DPKG es la base del sistema de gestión de paquetes de Debian GNU
@@ -54,7 +54,7 @@ El programa DPKG es la base del sistema de gestión de paquetes de Debian GNU
 
 <h2 style="text-decoration: underline;">Paso 4</h2>
 copiamos y pegamos el comando:
-<h3 style="text-align: center;">
+<h3 style="text-align: center; color: darkred;">
 	sudo apt autoremove
 </h3>
 APT es el administrador de paquetes de ubuntu y con este comando 
@@ -85,7 +85,7 @@ probadas en ubuntu
 <img src="../img/git-clone.png"><br>
 una vez echo esto nos va a crear una carpeta llamada <b>autolinux</b> si
 vemos dentro de ella se encuentra lo siguiente:
-<img src="../img/ll.png"><br>
+<br><img src="../img/ll.png"><br>
 el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 
 <h2 style="text-decoration: underline;">Paso 2</h2>
