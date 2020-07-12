@@ -97,6 +97,7 @@ copiamos y pegamos el comando:
 	./bloq nombre/del/proceso/
 </h3>
 <img src="/img/bloq.png"><br>
+<img src="/imgdpost/bloq.png"><br>
 de esta manera cuando me aparezca el error "no se pudo bloquear" solo tengo 
 q escribir el nombre del proceso a eliminar
 
