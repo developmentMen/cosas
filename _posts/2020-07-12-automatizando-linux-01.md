@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [linux]No se pudo bloquear???
+title: Ubuntu No se pudo bloquear?
 date: 2020-07-12 1:30
 permalink: /linux-bloq/
 ---
