@@ -1,6 +1,8 @@
 ---
 layout: post
-title: [linux]No se pudo bloquear??? 
+title: [linux]No se pudo bloquear???
+date: 2020-07-12 1:30
+permalink: /linux-bloq/
 ---
 <div style="text-align: center;">
 	<h1>
