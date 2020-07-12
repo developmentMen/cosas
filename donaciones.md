@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Donaciones
-permalink: /dons/
 ---
 <div style="text-align: center;">
 	<h1>

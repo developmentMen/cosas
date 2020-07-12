@@ -1,9 +1,7 @@
 ---
 layout: post 
 title: Internet y la identidad
-category: reflexion
 date: 2020-07-08 22:30
-permalink: /identidad/
 ---
 <h1 style="text-align: center;">La identidad dentro de internet</h1>
 <hr>
