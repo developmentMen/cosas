@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu No se pudo bloquear?
+title: No se pudo bloquear? Ubuntu
 date: 2020-07-12 1:30
 ---
 <div style="text-align: center;">
