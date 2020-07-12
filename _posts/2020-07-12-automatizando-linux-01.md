@@ -62,10 +62,10 @@ basicamente le decimos que elimine los paquetes que no se usan o que fueron
 reemplazados por otra actualizacion
 
 <div style="text-align: center;">
-	<h1>
+	<h2>
 		Solucion a largo plazo
 		<hr>
-	</h1>
+	</h2>
 </div>
 
 La realidad es que este problema va a seguir apareciendo a lo largo del 
@@ -82,10 +82,10 @@ copiamos y pegamos el comando:
 </h3>
 esto va a clonar mi [repositorio de automatizaciones][repo] linux creadas y 
 probadas en ubuntu
-<img src="../img/git-clone.png">
+<img src="../img/git-clone.png"><br>
 una vez echo esto nos va a crear una carpeta llamada <b>autolinux</b> si
 vemos dentro de ella se encuentra lo siguiente:
-<img src="../img/ll.png">
+<img src="../img/ll.png"><br>
 el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 
 <h2 style="text-decoration: underline;">Paso 2</h2>
@@ -97,7 +97,7 @@ copiamos y pegamos el comando:
 <h3 style="text-align: center;">
 	./bloq nombre/del/proceso/
 </h3>
-<img src="../img/bloq.png">
+<img src="../img/bloq.png"><br>
 de esta manera cuando me aparezca el error "no se pudo bloquear" solo tengo 
 q escribir el nombre del proceso a eliminar
 
