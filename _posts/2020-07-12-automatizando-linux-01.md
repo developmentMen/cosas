@@ -63,12 +63,13 @@ La realidad es que este problema va a seguir apareciendo a lo largo del tiempo y
 
 <h2 style="text-decoration: underline;">Paso 1</h2>
 copiamos y pegamos el comando:
-	<h3 style="text-align: center;">
-		git clone https://github.com/developmentMen/autolinux.git
-	</h3>
+<h3 style="text-align: center;">
+	git clone https://github.com/developmentMen/autolinux.git
+</h3>
 esto va a clonar mi [repositorio de automatizaciones][repo] linux creadas y probadas en ubuntu
 <img src="../img/git-clone.png">
-una vez echo esto nos va a crear una carpeta llamada <b>autolinux</b> si vemos dentro de ella se encuentra lo siguiente:
+una vez echo esto nos va a crear una carpeta llamada <b>autolinux</b> si
+vemos dentro de ella se encuentra lo siguiente:
 <img src="../img/ll.png">
 el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 
@@ -76,9 +77,9 @@ el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 ahora ya solo tenemos que copiar el archivo <b>bloq</b> a una carpeta que nos resulte comoda, yo personalmente lo tengo en la misma ruta donde se abre la terminal para hacer lo siguiente
 
 copiamos y pegamos el comando:
-	<h3 style="text-align: center;">
-		./bloq nombre/del/proceso/
-	</h3>
+<h3 style="text-align: center;">
+	./bloq nombre/del/proceso/
+</h3>
 <img src="../img/bloq.png">
 de esta manera cuando me aparezca el error "no se pudo bloquear" solo tengo q escribir el nombre del proceso a eliminar
 
