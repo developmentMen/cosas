@@ -81,10 +81,10 @@ copiamos y pegamos el comando:
 </h3>
 esto va a clonar mi [repositorio de automatizaciones][repo] linux creadas y 
 probadas en ubuntu
-<img src="../img/git-clone.png"><br>
+<img src="https://github.com/developmentMen/primeraWeb/blob/gh-pages/img/git-clone.png"><br>
 una vez echo esto nos va a crear una carpeta llamada <b>autolinux</b> si
 vemos dentro de ella se encuentra lo siguiente:
-<br><img src="../img/ll.png"><br>
+<br><img src="https://github.com/developmentMen/primeraWeb/blob/gh-pages/img/ll.png"><br>
 el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 
 <h2 style="text-decoration: underline;">Paso 2</h2>
@@ -96,7 +96,7 @@ copiamos y pegamos el comando:
 <h3 style="text-align: center;">
 	./bloq nombre/del/proceso/
 </h3>
-<img src="../img/bloq.png"><br>
+<img src="https://github.com/developmentMen/primeraWeb/blob/gh-pages/img/bloq.png"><br>
 de esta manera cuando me aparezca el error "no se pudo bloquear" solo tengo 
 q escribir el nombre del proceso a eliminar
 
