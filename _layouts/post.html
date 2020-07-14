@@ -12,9 +12,3 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
-
-{%- if site.hyvor_talk_website_id -%}
-  <div class="comments">
-    {%- include hyvor-talk-comments.html -%}
-  </div>
-{%- endif -%}
