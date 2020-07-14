@@ -1,15 +1,15 @@
 title: DevelopmentMen
-description: Hacker is a theme for GitHub Pages.
+description: web/blog con jekyll
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
 # for a clean URL
-# permalink: :slug
+permalink: :slug
 
-#social:
-#  twitter: DevelopmentMen
-#  github: DevelopmentMen
+social:
+ twitter: DevelopmentMen
+ github: DevelopmentMen
 
 #plugins:
 # - jekyll-feed
