@@ -7,14 +7,14 @@ theme: jekyll-theme-hacker
 # for a clean URL
 # permalink: :slug
 
-social:
-  twitter: DevelopmentMen
-  github: DevelopmentMen
+#social:
+#  twitter: DevelopmentMen
+#  github: DevelopmentMen
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
 
 ### comments & analytics
 hyvor_talk_website_id: 1189
-google_analytics: UA-NNNNNNNN-N
+# google_analytics: UA-NNNNNNNN-N
