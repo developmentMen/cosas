@@ -2,4 +2,4 @@
 layout: default
 title: proyectos
 ---
-aca van lo proyectos
+en progreso, de momento no hay ninguno u.u

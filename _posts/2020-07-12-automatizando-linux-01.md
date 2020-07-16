@@ -3,7 +3,7 @@ layout: post
 title: No se pudo bloquear? Ubuntu
 date: 2020-07-12 1:30
 author: developmentMen
-tags: ubuntu linux bloq bloqear recurso no se pudo bloquear
+tags: ubuntu linux bloq recurso no se pudo bloquear
 ---
 <div style="text-align: center;">
 	<h1>
@@ -92,9 +92,8 @@ el archivo <b>bloq</b> es el que nos facilita arreglar todo de ahora en mas
 <h2 style="text-decoration: underline;">Paso 2</h2>
 ahora ya solo tenemos que copiar el archivo <b>bloq</b> a una carpeta que 
 nos resulte comoda, yo personalmente lo tengo en la misma ruta donde se 
-abre la terminal para hacer lo siguiente
+abre la terminal para hacer lo siguiente:
 
-copiamos y pegamos el comando:
 <h3 style="text-align: center;">
 	./bloq nombre/del/proceso/
 </h3>
