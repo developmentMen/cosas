@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-Repositorio de [git hub](https://github.com/developmentMen/)
+<img src="https://cdn3.invitereferrals.com/blog/wp-content/uploads/2019/10/21123930/emails-to-get-referrals-banner-min.jpg">
 <br>
-enviame un <a href="mailto:developmentmen97@gmail.com">e-mail</a>
+<h1>enviame un <a href="mailto:developmentmen97@gmail.com">e-mail</a></h1>
+<br>
