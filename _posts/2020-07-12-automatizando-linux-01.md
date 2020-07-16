@@ -2,6 +2,8 @@
 layout: post
 title: No se pudo bloquear? Ubuntu
 date: 2020-07-12 1:30
+author: developmentMen
+tags: ubuntu linux bloq bloqear recurso no se pudo bloquear
 ---
 <div style="text-align: center;">
 	<h1>

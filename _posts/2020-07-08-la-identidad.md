@@ -2,6 +2,8 @@
 layout: post 
 title: Internet y la identidad
 date: 2020-07-08 22:30
+author: developmentMen
+tags: identidad internet blog developmentMen
 ---
 <h1 style="text-align: center;">La identidad dentro de internet</h1>
 <hr>
