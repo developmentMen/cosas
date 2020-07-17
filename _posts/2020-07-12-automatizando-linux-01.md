@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No se pudo bloquear? Ubuntu
+title: Ubuntu |> No se pudo bloquear
 date: 2020-07-12 1:30
 author: developmentMen
 tags: ubuntu linux bloq recurso no se pudo bloquear
@@ -101,5 +101,6 @@ abre la terminal para hacer lo siguiente:
 de esta manera cuando me aparezca el error "no se pudo bloquear" solo tengo 
 q escribir el nombre del proceso a eliminar
 
+<h1 style="text-align: center; size: 200%">~Fin~</h1>
 [git-hub]: https://git-scm.com/download/
 [repo]: https://github.com/developmentMen/autolinux.git
