@@ -1,5 +1,6 @@
 title: Dosis de Codigo
 description: web/blog con jekyll by DevelopmentMen
+favicon: favicon.ico
 # show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
