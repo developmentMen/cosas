@@ -12,7 +12,9 @@ Este post es lo que me resulto interesante de la lectura del siguiente libro:
 <br>
 <hr>
 <div style="text-align: center;">
-<img src="https://bbvaopen4u.com/sites/default/files/styles/big-image/public/img/new/bbva-open4u-herramientas-linux_1.jpg?itok=aUf6Y7yg">
+	<h1>Musica para leer</h1>
+	<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/465546846&color=%23c9bdd3&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lofi-hip-hop-music" title="Hip Hop" target="_blank" style="color: #cccccc; text-decoration: none;">Hip Hop</a> · <a href="https://soundcloud.com/lofi-hip-hop-music/lofi-hip-hop" title="Lofi" target="_blank" style="color: #cccccc; text-decoration: none;">Lofi</a></div>
+	<img src="https://bbvaopen4u.com/sites/default/files/styles/big-image/public/img/new/bbva-open4u-herramientas-linux_1.jpg?itok=aUf6Y7yg">
 </div>
 
 <h1 style="text-align: center;">Linea de comandos</h1>
